@@ -17,7 +17,7 @@
 // You can also find solutions to all exercises in the `solutions` git branch.
 fn greeting() -> &'static str {
     // TODO: fix me 👇
-    "I'm ready to __!"
+    "I'm ready to learn Rust!"
 }
 
 // Your solutions will be automatically verified by a set of tests.
@@ -27,7 +27,7 @@ fn greeting() -> &'static str {
 //
 // Rust lets you write tests alongside your code.
 // The `#[cfg(test)]` attribute tells the compiler to only compile the code below when
-// running tests (i.e. when you run `cargo test`).
+// running tests (i.e. when you run `cargo test`).w
 // You'll learn more about attributes and testing later in the course.
 // For now, just know that you need to look for the `#[cfg(test)]` attribute to find the tests
 // that will be verifying the correctness of your solutions!
